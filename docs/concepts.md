@@ -8,10 +8,12 @@ Here you will find references to useful concepts related to:
 
 ## Overview
 
-* [Apache Kafka Architecture: Overview of its internal components](https://www.youtube.com/watch?v=2pioVWPblXs)
-* [System Design: Why is Kafka fast?](https://www.youtube.com/watch?v=UNUz1-msbOM)
+* [Apache Kafka Architecture: Overview of its internal components - Jun Rao from Confluence](https://www.youtube.com/watch?v=2pioVWPblXs)
+* [System Design: Why is Kafka fast? - ByteByteGo](https://www.youtube.com/watch?v=UNUz1-msbOM)
 
 ## Components
+
+From Kafka Jun Rao (Confluence):
 
 * [Brokers: Introduction to the Data Plane](https://www.youtube.com/watch?v=s6-uDxDKH1k)
 * [Cluster Scaling and Automation](https://www.youtube.com/watch?v=AVjOvmCehF4)
@@ -27,4 +29,14 @@ Here you will find references to useful concepts related to:
 
 ## Implementation patterns
 
-* [Designing Events and Event Stream](https://www.youtube.com/watch?v=HBGyGT-vbEE&list=PLa7VYi0yPIH145SVtPoh3Efv8xZ1ehUYy)
+From Adam Bellemare (Confluence):
+
+* [Designing Events and Event Stream](https://www.youtube.com/watch?v=c1REIERHcuk)
+* [Event Design and Event Streams Best Practices](https://www.youtube.com/watch?v=hn76D1SNEhQ)
+* [Facts vs Delta Event Types](https://www.youtube.com/watch?v=vZ2mWLJdRaA)
+* [Facts vs Delta Event Types (Hands On)](https://www.youtube.com/watch?v=EpTh-z5wHb8)
+* [Normalization vs Denomalization](https://www.youtube.com/watch?v=sDU94hraq8g)
+* [Normalization vs Denomalization (Hands On)](https://www.youtube.com/watch?v=pgZT7_HPKec)
+* [Single vs Multiple Event Streams](https://www.youtube.com/watch?v=xkV2pC21DBQ)
+* [Single vs Multiple Event Streams (Hands On)](https://www.youtube.com/watch?v=n-CG4uk6DMA)
+* [Terminating vs Non-Terminating Entities](https://www.youtube.com/watch?v=jKqGTONMaXE)

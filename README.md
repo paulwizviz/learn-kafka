@@ -1,6 +1,9 @@
 # Overview
 
-This is a repository of working examples demonstrating techniques to create apps to interact with Kafka.
+This repository contains:
+
+* References to concepts and techniques from other sources.
+* Working examples demonstrating techniques to create apps interacting with Kafka.
 
 ## Structures of this repository
 

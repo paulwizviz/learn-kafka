@@ -6,10 +6,10 @@ COMMAND="$1"
 
 case $COMMAND in
     "start")
-        docker-compose -f ./deployment/single_instance.yml up
+        docker-compose -f ./deployment/single_broker.yml up
         ;;
     "stop")
-        docker-compose -f ./deployment/single_instance.yml down
+        docker-compose -f ./deployment/single_broker.yml down
         ;;
     *)
         echo "$0 [start | stop]"

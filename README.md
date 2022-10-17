@@ -12,6 +12,7 @@ The content of this repository is organised on the basis of the [Go standard pro
 ## Topics
 
 * [Concepts](./docs/concepts.md)
+* [Single broker cluster working example](./docs/singlebroker.md)
 
 ## Disclamiers
 

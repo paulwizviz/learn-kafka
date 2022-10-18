@@ -40,3 +40,7 @@ From Adam Bellemare (Confluence):
 * [Single vs Multiple Event Streams](https://www.youtube.com/watch?v=xkV2pC21DBQ)
 * [Single vs Multiple Event Streams (Hands On)](https://www.youtube.com/watch?v=n-CG4uk6DMA)
 * [Terminating vs Non-Terminating Entities](https://www.youtube.com/watch?v=jKqGTONMaXE)
+
+## Real world use cases
+
+* [5 stages of event-driven architecture (EDA) with Kafka for the finance industry - Axion](https://www.youtube.com/watch?v=cFcX6deQBks)

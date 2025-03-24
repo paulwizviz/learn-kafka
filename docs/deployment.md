@@ -1,6 +1,12 @@
-# Single Broker Cluster
+# Deployments
 
-This cluster is a reproduction of [confluence quick start](https://developer.confluent.io/quickstart/kafka-docker/). There is a working version here [./deployment/single_broker.yml](../deployment/single_broker.yml).
+This project provides example of deployments.
+
+* [Single Broker Cluster](#single-broker-cluster)
+
+## Single Broker Cluster
+
+This cluster is a reproduction of [confluence quick start](https://developer.confluent.io/quickstart/kafka-docker/). There is a working version here [./deployment/single_broker.yml](../deployments/single_broker.yml).
 
 To work with this deployment, you will have to install docker and bash shell.
 
